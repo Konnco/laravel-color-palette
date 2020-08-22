@@ -1,5 +1,5 @@
 {
-    "name": "nikkanetiya/laravel-color-palette",
+    "name": "konnco/laravel-color-thief",
     "description": "Laravel Wrapper for `ksubileau/color-thief-php`. Grabs the dominant color or a representative color palette from an image. Uses PHP and GD or Imagick.",
     "homepage": "https://github.com/nikkanetiya/laravel-color-palette",
     "keywords": ["laravel","color-palette","image-colors","color-thief","php", "gd"],
